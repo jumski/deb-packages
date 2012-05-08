@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sat,  1 Jul 2006 12:15:29 +0200
+Source: xhotkeys
+Binary: xhotkeys
+Architecture: source all
+Version: 0.9
+Distribution: unstable
+Urgency: low
+Maintainer: Arnau Sanchez <arnau@ehas.org>
+Changed-By: Arnau Sanchez <arnau@ehas.org>
+Description: 
+ xhotkeys   - Bind keys and mouse events to commands in the X-Window
+Changes: 
+ xhotkeys (0.9) unstable; urgency=low
+ .
+   * Modifier table (keysym to mask modifier) created at runtime
+Checksums-Sha1: 
+ 688415e6b5ffd8b13e0eb7f29092eb2d1c70c8a1 500 xhotkeys_0.9.dsc
+ 79aad1b23b23ad443db4a03878f9d163c8f38bd2 58942 xhotkeys_0.9.tar.gz
+ bc51f9b5c54df5a778001fff96c5296bbfdf83b0 57830 xhotkeys_0.9_all.deb
+Checksums-Sha256: 
+ 1c236a21cdd5b1969d66adf54e884c2596db11a45f57a75613ba92ee549983ae 500 xhotkeys_0.9.dsc
+ dded3ed6115c8796f394d2cda0b265dff3ecbc3c261e8a88bc38b67035b15675 58942 xhotkeys_0.9.tar.gz
+ 2badacc86e912483bd3c2eb28ac0c1493d995f53c78964461cc294c102be2bef 57830 xhotkeys_0.9_all.deb
+Files: 
+ 1d5f3ae55dfaa508c99c7c10f8672074 500 x11 optional xhotkeys_0.9.dsc
+ 7366ceb07fbed9f0c92d0fd189f2dd32 58942 x11 optional xhotkeys_0.9.tar.gz
+ 71937fc76c1479e4dc85512622c644c9 57830 x11 optional xhotkeys_0.9_all.deb
